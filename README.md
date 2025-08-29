@@ -6,4 +6,10 @@ Focus: performance & sector/country exposure.
 ---
 ## 🛠️ Setup
 ```bash
-git clone https://github.com/<your-username>/vwrl-etf-analysis.git
+git clone https://github.com/stefanolondero/Analisi-Fondo-VWRL
+
+---
+## ⚡ Run
+
+Open `progetto_stefano.slides.html`
+
